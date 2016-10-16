@@ -1,0 +1,17 @@
+{
+  "name": "fis-parser-tpl2js",
+  "version": "0.0.2",
+  "description": "template to js for fis",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spryti/fis-parser-tpl2js.git"
+  },
+  "keywords": [
+    "fis",
+    "tpl2js"
+  ],
+  "author": "yangtao",
+  "license": "MIT",
+  "homepage": "https://github.com/spryti/fis-parser-tpl2js"
+}
